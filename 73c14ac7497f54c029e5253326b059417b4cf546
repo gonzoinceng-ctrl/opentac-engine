@@ -1,0 +1,10 @@
+{
+  "sha": "73c14ac7497f54c029e5253326b059417b4cf546",
+  "upstreamTag": "main",
+  "readyAt": "2026-11-04T11:31:46.000Z",
+  "gateRunUrl": "https://github.com/gonzoinceng-ctrl/opentac-engine/actions/runs/41818313185",
+  "policy": "main",
+  "commitRange": "72eb3fdc739991a1286b7f1251de908e9744bb2a..73c14ac7497f54c029e5253326b059417b4cf546",
+  "minShell": "0.0.0",
+  "gateResult": "green"
+}
